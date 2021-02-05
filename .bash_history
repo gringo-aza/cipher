@@ -76,3 +76,48 @@ vue --version
 npm install -g @vue/cli
 vue --version
 npm cache clean --force
+git push -u github main
+ssh-keygen
+git push -u github main
+git push -u origin main
+git push -u master main
+git status
+git add .
+git add .
+git status
+git add README.md
+git status
+git add cipher
+git status
+git commit -m "fdf"
+git push -u origin main
+git push -u github main
+git push -u origin github
+git push -u origin main
+git remote add origin git@github.com:gringo-aza/sezar-ready.git
+git push -u origin main
+git push -u github main
+git push -u origin master
+git push -u origin main
+git push -u origin master
+git remote rm origin
+git remote add origin
+git remote add origin git@github.com:gringo-aza/sezar-ready.git
+git push -u origin main
+git push -u origin master
+git push -u origin main
+git remote
+git push -u origin master
+git add -A
+git commit -m "initial commit"
+git push -u origin master
+git remote
+git push -u origin master
+ssh-keygen
+git push -u origin master
+git push -u origin mastergit remote add origin git@github.com:gringo-aza/sezar-ready.git
+git remote add origin git@github.com:gringo-aza/sezar-ready.git
+git push -u origin master
+vue create vue-weather
+git init
+ssh -v git@github.com
