@@ -121,3 +121,32 @@ git push -u origin master
 vue create vue-weather
 git init
 ssh -v git@github.com
+ssh-keygen -t rsa -b 4096 -C argringo97@gmail.com
+ssh-keygen -E mdS -lf ~/.ssh/id_rsa.pub
+ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
+git clone git@github.com:gringo-aza/ceasar.git
+git push -u origin main
+ 
+ssh-keygen -t rsa -b 4096 -C argringo97@gmail.com
+ssh-keygen -E md5-lf ~/.ssh/id_rsa.pub
+ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+git push -u origin main
+git clone git@github.com:gringo-aza/ceasar.git
+git checkout gh-pages
+git add .
+git add .
+git commit -m "yeap"
+git checkout gh-pages
+git status
+git add
+git add
+git add .
+ git commit -m "happy"
+git subtree push --prefix dist origin gh-pages
+ git subtree push --prefix dist origin gh-pages
+   
+ssh -T git@github.com
